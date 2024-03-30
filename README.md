@@ -5,7 +5,7 @@
 
   <h2 align="center">NextGemEx - Cryptocurrency Website</h2>
 
-  Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  NextGemEx is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/NextGemEx/"><strong>➥ Live Demo</strong></a>
 
