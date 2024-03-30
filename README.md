@@ -13,7 +13,8 @@
 
 ### Demo Screeshots
 
-![NextGemEx Desktop Demo](./"C:\Users\SaiNatg\OneDrive\Desktop\NexyGemEx\Screenshot 2024-03-30 193855.png" "Desktop Demo")
+![NextGemEx Desktop Demo](![Screenshot 2024-03-30 193855](https://github.com/sainathvalavala/nextGemEx/assets/146621032/3645a8ec-e041-449f-948f-2248046a8c01)
+)
 
 ### Prerequisites
 
