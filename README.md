@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![NextGemEx Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![NextGemEx Desktop Demo](./"C:\Users\SaiNatg\OneDrive\Desktop\NexyGemEx\Screenshot 2024-03-30 193855.png" "Desktop Demo")
 
 ### Prerequisites
 
@@ -25,21 +25,14 @@ Before you begin, ensure you have met the following requirements:
 
 To run **NextGemEx** locally, run this command on your git bash:
 
-Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/cryptex.git
-```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/cryptex.git
+git clone https://github.com/sainathvalavala/nextGemEx/tree/main
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
